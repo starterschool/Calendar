@@ -1,6 +1,6 @@
 // Execute the following code when the page is loaded
 $(function () {
-    $('.event h3 a').click(function(e) {
+    $('.calendar').on('click', '.event h3 a', function(e) {
         e.preventDefault();
         $(this).closest('.event').find('p').show();
     });
@@ -13,7 +13,7 @@ $(function () {
                 var el = $('<div></div>').addClass('event');
 
                 // Create HTML elements to go in the .event
-                var title = $('<h3></h3>').html(item.title);
+                var title = $('<h3></h3>').html('<a href="#">' + item.title + '</a>');
                 var desc = $('<p></p>').html(item.description);
                 // … plus a bunch more
 
