@@ -1,3 +1,4 @@
+@charset "UTF-8";
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -62,7 +63,8 @@ body {
 }
 
 a {
-  color: #800000;
+  color: teal;
+  text-decoration: none;
 }
 
 .wrap {
@@ -79,13 +81,17 @@ h2 {
   font-weight: bold;
 }
 
+.event {
+  line-height: 1.4;
+}
+
 @media screen and (max-width: 499px) {
   .dow-header {
     display: none;
   }
 
   .day {
-    border-top: 2px solid #eee;
+    border-top: 2px solid #ddd;
     padding: 20px 0;
   }
 
@@ -95,6 +101,39 @@ h2 {
 
   .date:before {
     content: "Feburary ";
+  }
+
+  h2 {
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #999;
+    margin-bottom: 1em;
+  }
+
+  h3 {
+    font-size: 25px;
+  }
+  h3 .type {
+    background: #800000;
+    border-radius: 8px;
+    color: white;
+    font-size: 12px;
+    padding: 3px 8px;
+    display: inline-block;
+    position: relative;
+    top: -3px;
+    text-transform: uppercase;
+  }
+
+  .event .time, .event .loc {
+    color: #777;
+    font-size: 15px;
+  }
+  .event .loc:before {
+    content: "• ";
+  }
+  .event p {
+    margin-top: .5em;
   }
 }
 @media screen and (min-width: 500px) {
@@ -135,5 +174,19 @@ h2 {
 
   .cell {
     border: 1px solid #aaaaaa;
+  }
+
+  .event {
+    font-size: 13px;
+  }
+  .event .type, .event .loc, .event p {
+    display: none;
+  }
+  .event h3 {
+    font-size: 16px;
+  }
+  .event .time {
+    display: block;
+    color: #888;
   }
 }
