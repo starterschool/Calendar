@@ -70,16 +70,6 @@
       "entry_id":1337
    },
    {
-      "title":"Learn To Read Class",
-      "entry_date":1391580000000,
-      "description":"literacy class for adults. 847-635-1426",
-      "event_time":"9:15 AM",
-      "event_end_time":"12:15 PM",
-      "event_location":"Friends Room B",
-      "category":"kids",
-      "entry_id":231
-   },
-   {
       "title":"AARP Tax Aide for Seniors",
       "entry_date":1391666400000,
       "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
@@ -208,16 +198,6 @@
       "event_location":"Friends Room B",
       "category":"seniors",
       "entry_id":1341
-   },
-   {
-      "title":"Learn To Read Class",
-      "entry_date":1392184800000,
-      "description":"literacy class for adults. 847-635-1426",
-      "event_time":"9:15 AM",
-      "event_end_time":"12:15 PM",
-      "event_location":"Friends Room B",
-      "category":"",
-      "entry_id":263
    },
    {
       "title":"AARP Tax Aide for Seniors",
