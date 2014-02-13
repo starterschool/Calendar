@@ -29,6 +29,10 @@ $(function () {
                 // Add it to the proper date in the calendar
                 $('#' + dateID).append(el);
             });
+
+            // Loop through days, add .empty class when there are no events
+                // … or is there a way to integrate this into the loop above?
+                // Spend a minute thinking about solution to this.
         }
     );
 });
