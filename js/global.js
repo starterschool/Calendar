@@ -4,4 +4,13 @@ $(function () {
         e.preventDefault();
         $(this).closest('.event').find('p').show();
     });
+
+    $.getJSON(
+        "/data.json",
+        function(data) {
+            $.each(data,function(i,item) {
+                console.log(i, item);
+            });
+        }
+    );
 });
