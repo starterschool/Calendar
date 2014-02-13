@@ -1,0 +1,552 @@
+[
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1391407200000,
+      "description":"literacy class for adults. 847-635-1426",
+      "event_time":"9:15 AM",
+      "event_end_time":"12:15 PM",
+      "event_location":"Friends Room B",
+      "category":"kids",
+      "entry_id":220
+   },
+   {
+      "title":"Gluefriends Art Group",
+      "entry_date":1391407200000,
+      "description":"monthly meeting to work on art projects-Susan 847-795-9298",
+      "event_time":"6:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room B",
+      "category":"adults",
+      "entry_id":707
+   },
+   {
+      "title":"Des Plaines Toastmasters",
+      "entry_date":1391407200000,
+      "description":"To conduct a club meeting-Rich 847-207-5065",
+      "event_time":"6:30 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":708
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1391493600000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":223
+   },
+   {
+      "title":"Des Plaines Homeschool",
+      "entry_date":1391493600000,
+      "description":"classes-Nor a847-297-2979",
+      "event_time":"9:30 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room C",
+      "category":"kids",
+      "entry_id":225
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1391493600000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"kids",
+      "entry_id":229
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1391493600000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":1337
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1391580000000,
+      "description":"literacy class for adults. 847-635-1426",
+      "event_time":"9:15 AM",
+      "event_end_time":"12:15 PM",
+      "event_location":"Friends Room B",
+      "category":"kids",
+      "entry_id":231
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1391666400000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":237
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1391666400000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"kids",
+      "entry_id":243
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1391666400000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":1338
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1392012000000,
+      "description":"literacy class for adults. 847-635-1426",
+      "event_time":"9:15 AM",
+      "event_end_time":"12:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":248
+   },
+   {
+      "title":"Chicago-North RWA",
+      "entry_date":1392012000000,
+      "description":"regular chapter meeting-Shannyn 847-795-1775",
+      "event_time":"6:30 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"adults",
+      "entry_id":251
+   },
+   {
+      "title":"Concord Commons Condo  Association",
+      "entry_date":1392012000000,
+      "description":"meeting-Nisha 224-766-2293",
+      "event_time":"6:30 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":252
+   },
+   {
+      "title":"Meridian Condo",
+      "entry_date":1392012000000,
+      "description":"Board Meeting-847-298-9302",
+      "event_time":"7:00 PM",
+      "event_end_time":"8:00 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":253
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392098400000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":254
+   },
+   {
+      "title":"Des Plaines Homeschool",
+      "entry_date":1392098400000,
+      "description":"classes-Nora 847-297-2979",
+      "event_time":"9:30 AM",
+      "event_end_time":"1:30 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":257
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1392098400000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":260
+   },
+   {
+      "title":"DP Lunkerbuster Fishing Club",
+      "entry_date":1392098400000,
+      "description":"Monthly meeting",
+      "event_time":"6:30 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":262
+   },
+   {
+      "title":"Stone Gate III Condominium Assoc.  -  390 S. Western Ave",
+      "entry_date":1392098400000,
+      "description":"Board Meeting-Jenica 847-298-9085",
+      "event_time":"7:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":1105
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392098400000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":1341
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1392184800000,
+      "description":"literacy class for adults. 847-635-1426",
+      "event_time":"9:15 AM",
+      "event_end_time":"12:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":263
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392271200000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":268
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1392271200000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":274
+   },
+   {
+      "title":"River Point Condo Association*",
+      "entry_date":1392271200000,
+      "description":"ASSC. meeting-Thomas 847-390-0764",
+      "event_time":"6:30 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":1106
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392271200000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":1342
+   },
+   {
+      "title":"Society of Children''s Book Writers and Illustrators",
+      "entry_date":1392444000000,
+      "description":"ARTISTS AT PLAY:   \u0093It is a happy talent to know how to play,\u0094 says Ralph Waldo Emerson. Join us as we flex our creative muscles with some quick and easy art exercises and drawing games, including \u0093Exquisite Corpse\u0094 and \u0093Doodle.\u0094 Everyone\u0092s a winner in these games!",
+      "event_time":"1:00 PM",
+      "event_end_time":"3:30 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":709
+   },
+   {
+      "title":"Polyglots Toastmasters*",
+      "entry_date":1392444000000,
+      "description":"German Language\/Public Speaking-Kevin 847-296-4397",
+      "event_time":"9:30 AM",
+      "event_end_time":"11:30 AM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":1175
+   },
+   {
+      "title":"Des Plaines Toastmasters",
+      "entry_date":1392616800000,
+      "description":"To conduct a club meeting-Rich 847-207-5065",
+      "event_time":"6:30 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":710
+   },
+   {
+      "title":"Square Spares Square Dance Club",
+      "entry_date":1392616800000,
+      "description":"Monthly board meeting-Linda 847-299-6554",
+      "event_time":"7:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":1177
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392703200000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":288
+   },
+   {
+      "title":"Des Plaines Homeschool",
+      "entry_date":1392703200000,
+      "description":"classes-Nora 847-297-2979",
+      "event_time":"9:30 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":290
+   },
+   {
+      "title":"City of Des Plaines Blood Drive",
+      "entry_date":1392703200000,
+      "description":"blood drive",
+      "event_time":"12:30 PM",
+      "event_end_time":"6:30 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":293
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1392703200000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":296
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392703200000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":1346
+   },
+   {
+      "title":"Poetry Out Loud Suburban Chicagoland Regional Final",
+      "entry_date":1392789600000,
+      "description":" At the Suburban Chicagoland Regional Final for Poetry Out Loud, high school students will recite world-renowned classic and contemporary poetry, as they compete for a trip to the State Finals in Springfield. The small group of Regional Finalists represents thousands of students who have participated and competed in their schools.<br \/><br \/>Poetry Out Loud: National Recitation Contest is sponsored by the National Endowment for the Arts and The Poetry Foundation, and, in Chicagoland, by the Illinois Arts Council in partnership with Literature for All of Us.",
+      "event_time":"10:30 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B\/C",
+      "category":"Featured",
+      "entry_id":300
+   },
+   {
+      "title":"CUB Program",
+      "entry_date":1392789600000,
+      "description":"Citizens Utility Board program amoung other vendors.",
+      "event_time":"6:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":1347
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392876000000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":304
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1392876000000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":311
+   },
+   {
+      "title":"Park Place Condominium Assoc.",
+      "entry_date":1392876000000,
+      "description":"Board Meeting-Mike 847-813-5798",
+      "event_time":"7:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":752
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1392876000000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":1348
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1393221600000,
+      "description":"literacy class for adults. 847-635-1426",
+      "event_time":"9:15 AM",
+      "event_end_time":"12:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":317
+   },
+   {
+      "title":"Happy Spinsters",
+      "entry_date":1393221600000,
+      "description":"We meet in order to share information and spin together.",
+      "event_time":"6:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":711
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1393308000000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":319
+   },
+   {
+      "title":"Des Plaines Homeschool",
+      "entry_date":1393308000000,
+      "description":"classes-Nora 847-297-2979",
+      "event_time":"9:30 AM",
+      "event_end_time":"1:30 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":320
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1393308000000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":324
+   },
+   {
+      "title":"Friends of the Library Meeting",
+      "entry_date":1393308000000,
+      "description":"Friends meet the 4th Tuesday of each month except for July and December. Meetings take place in the library's 2nd floor conference room. For more information please phone the Friends at 847-376-2922 or visit the Friends page on DPPL's website. ",
+      "event_time":"7:00 PM",
+      "event_end_time":"8:45 PM",
+      "event_location":"Conference Room",
+      "category":"",
+      "entry_id":325
+   },
+   {
+      "title":"Great Decisions",
+      "entry_date":1393308000000,
+      "description":"A discussion of foreign policy issues. ",
+      "event_time":"7:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"Featured",
+      "entry_id":326
+   },
+   {
+      "title":"Prairie Corners Townhomes Association*",
+      "entry_date":1393308000000,
+      "description":"Homeowners Association Board Meeting-Stefan 312-463-2215",
+      "event_time":"7:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Meeting Room A",
+      "category":"",
+      "entry_id":753
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1393308000000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":1351
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1393394400000,
+      "description":"literacy class for adults. 847-635-1426",
+      "event_time":"9:15 AM",
+      "event_end_time":"12:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":327
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1393480800000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":332
+   },
+   {
+      "title":"Learn To Read Class",
+      "entry_date":1393480800000,
+      "description":"Literacy Class for Adults.  Call 847.635.1426 for more information",
+      "event_time":"6:15 PM",
+      "event_end_time":"9:15 PM",
+      "event_location":"Friends Room B",
+      "category":"",
+      "entry_id":335
+   },
+   {
+      "title":"Stone Gate Master Assoc.",
+      "entry_date":1393480800000,
+      "description":"Board Meeting",
+      "event_time":"7:00 PM",
+      "event_end_time":"9:00 PM",
+      "event_location":"Friends Room C",
+      "category":"",
+      "entry_id":1110
+   },
+   {
+      "title":"AARP Tax Aide for Seniors",
+      "entry_date":1393480800000,
+      "description":"Tax help for seniors 60 and older. Appointments will begin in January 2014.Call 847-376-2788",
+      "event_time":"9:00 AM",
+      "event_end_time":"1:00 PM",
+      "event_location":"Friends Room B",
+      "category":"seniors",
+      "entry_id":1353
+   }
+]
