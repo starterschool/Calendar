@@ -28,6 +28,8 @@ a {
 $border_color: #aaa;
 $kids_color: #800000;
 
+$grid_min_width: 600px;
+
 .wrap {
     padding: 0 20px;
 }
@@ -46,7 +48,7 @@ h2 {
     line-height: 1.4;
 }
 
-@media screen and (max-width: 499px) {
+@media screen and (max-width: $grid_min_width - 1) {
     .dow-header {
         display: none;
     }
@@ -113,7 +115,7 @@ h2 {
     }
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: $grid_min_width) {
     %container {
         margin: 0 auto;
         max-width: 960px;
