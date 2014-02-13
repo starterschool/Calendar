@@ -1,0 +1,110 @@
+@import "library";
+@import "reset";
+
+// Global templates
+
+%group:after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+// Global tags
+
+body {
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+a {
+    color: #800000;
+}
+
+// Everything else
+
+
+$border_color: #aaa;
+
+.wrap {
+    padding: 0 20px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 1.5;
+    margin-bottom: .5em;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 499px) {
+    .dow-header {
+        display: none;
+    }
+
+    .day {
+        border-top: 2px solid #eee;
+        padding: 20px 0;
+    }
+
+    .empty {
+        display: none;
+    }
+
+    .date {
+        &:before {
+            content: "Feburary ";
+        }
+    }
+}
+
+@media screen and (min-width: 500px) {
+    %container {
+        margin: 0 auto;
+        max-width: 960px;
+    }
+
+    .wrap {
+        @extend %container;
+    }
+
+    .calendar {
+        display: table;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    %cell {
+        display: table-cell;
+        padding: 10px;
+    }
+
+    .weekdays {
+        display: table-row;
+    }
+
+    .dow-header {
+        @extend %cell;
+        font-size: 11px;
+        border-color: #fff;
+        text-transform: uppercase;
+        padding: 4px 10px;
+    }
+
+
+    .week {
+        display: table-row;
+    }
+
+    .dow {
+        display: none;
+    }
+
+    .cell {
+        @extend %cell;
+        border: 1px solid $border_color;
+    }
+}
