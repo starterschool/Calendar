@@ -184,6 +184,7 @@ h2 {
     font-size: 13px;
     border-top: 2px solid #bbb;
     padding-top: 4px;
+    margin-bottom: 10px;
   }
   .event .type, .event .loc, .event p {
     display: none;
