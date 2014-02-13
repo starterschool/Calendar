@@ -63,12 +63,12 @@ body {
 }
 
 a {
-  color: orange;
+  color: #e69500;
   text-decoration: none;
 }
 
 .wrap {
-  padding: 0 20px;
+  padding: 0 20px 40px;
 }
 
 h1 {
@@ -173,6 +173,7 @@ h2 {
   }
 
   .cell {
+    width: 14.28571%;
     border: 1px solid #aaaaaa;
   }
 
